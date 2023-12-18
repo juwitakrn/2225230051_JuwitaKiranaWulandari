@@ -1,0 +1,11 @@
+body    {
+    background-image: url("a.png");
+    margin: 85px auto;
+        width: 900px;
+        padding: 38px;
+}
+.card {
+    color: #000000;
+    background: rgb(179, 252, 207);
+    border-radius: 20px;
+}
